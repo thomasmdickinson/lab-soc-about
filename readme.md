@@ -53,21 +53,9 @@ I'll be thinking about.
 * you and I have relatively similar values. if you are not comfortable using
   people's preferred names and pronouns, or you think "antifa" refers to
   something bad or scary, this is probably not a great place for you
-* you are comfortable with the risk.
-    * ON THE ONE HAND, you can be relatively assured that the mastodon source
-      code is solid, and the linode server I'm running on is reliable, and
-      lab-soc is roughly as secure as any modern social media site. (If you're
-      not convinced about this please ask a tech person you know and trust, and
-      I'm happy to speak with them if they have questions.
-    * ON THE OTHER HAND, I'm not an experienced sysadmin and this is a hobby
-      project. I can't currently make any promises about uptime and there is
-      also a possibility of data loss in the event that I screw something up in
-      administrating the system. There is also the possibility that I burn out
-      and decide I can't run it anymore. I realize if and when I invite people
-      to the server, then I am committing to do the best I can to do right by
-      them, but I want to be clear that I'm just one guy and this is an
-      experimental hobby project for me so I ask you to bear in mind that it
-      may not work out perfectly.
+* you have considered the security risks inherent to mastodon, and the risks of
+  trusting some friend of yours who runs a mastodon server. Some further notes
+  and explanations are posted [here](security.md).
 
 If you think you fit those criteria and you'd be interested to join when I'm
 ready, then reach out to me and let me know!
