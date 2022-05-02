@@ -4,8 +4,8 @@ Project Roadmap
 I am not an expert at this, so this is a process of trial and error.
 Here's my rough roadmap.
 
-**NOTE as of 5/2/22: maybe compress this timeline? Things are moving faster
-than I had expected**
+**EDITED 5/2/22:** I was initially planning for this to take much longer but I
+have decided to accelerate the timeline because things are going pretty well.
 
 * April 2022
   * ~~get vanilla mastodon up and running on linode~~
@@ -22,16 +22,16 @@ than I had expected**
     * Status: **DONE as of 5/1/22**
   * ~~implement s3 storage so images etc don't fill up linode~~
     * Status: **DONE as of 5/2/22**
-  * test things!
-  * Write basic code of conduct, and better description copy
+  * ~~migrate from @nowwearealltom@mastodon.cloud to this server~~
+    * Status: **DONE as of 5/2/22**
+  * Test and use this as my personal private instance for a while
+    * Status: **ONGOING**
 
 * June 2022
-  * keep testing
-
-* July 2022
-  * migrate from @nowwearealltom@mastodon.cloud to this server
-  * use this as my personal private instance for a while
-* August 2022
-
+  * Continue testing and using this as my personal private instance
+  * Write initial basic code of conduct
+  * Write better description copy
   * Write basic onboarding guide
+
+* July 2022  
   * Invite 2-3 new users
