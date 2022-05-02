@@ -88,11 +88,15 @@ explanation. More will be added here later.
 Emoji
 -----
 
-This server uses some custom emoji from the
-[Mutant Standard](https://mutant.tech) collection of custom emoji, most notably
-the custom flags and symbols from their Gender, Sexuality, and Relationships
-category. Other emojis from that set (or any other source) can be added by
-request.
+This instance uses <a href='https://mutant.tech'>Mutant Standard emoji</a>,
+which are licensed under a
+<a href='https://creativecommons.org/licenses/by-nc-sa/4.0/'>Creative Commons
+Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+
+For the moment, I have chosen to add only a small subset of these emoji, most
+notably the custom flags and symbols from their Gender, Sexuality, and
+Relationships category. Other emojis from that set (or any other source) can be
+added by request to the admin.
 
 Users can tag their posts as "local only" by using the :local\_only: emoji,
 which looks like this:
@@ -103,4 +107,5 @@ which looks like this:
          margin: -.2ex .15em .2ex; width: 16px; height: 16px;"
 />
 You can also just type ":local\_only:" in your toot, colons included.
-That works as well.
+That works as well. See [Hometown Features](#hometown-features) for more info
+on local only posting.
