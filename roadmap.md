@@ -32,6 +32,7 @@ have decided to accelerate the timeline because things are going pretty well.
   * Write initial basic code of conduct
   * Write better description copy
   * Write basic onboarding guide
+  * Create custom "Labyrinth" css theme
 
 * July 2022  
-  * Invite 2-3 new users
+  * Invite 2-5 new users
