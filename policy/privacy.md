@@ -1,6 +1,98 @@
-# Terms of Service
+# Privacy Policy
 
-## Privacy Policy
+See also:
+* [Terms of Service](terms.md)
+* [Invitation Policy](invitation.md)
+* [Code of Conduct](conduct.md)
+
+This instance is administrated by Tom Dickinson. "Admin", "I", or "Me" in the
+following text refers to Tom Dickinson.
+
+## It Matters Whether You Trust Me Personally
+
+When we speak about privacy and security on large corporate social media
+platforms, we are usually referring to their data policies in a large-scale and
+impersonal context, like whether they will track you, build advertising profiles
+on you, perform social experiments on users, or sell the data to third parties.
+With a small social network hosted by someone you personally know, you do not
+usually have to worry about about that.
+
+For instance, whatever social platform you are using, a person with sufficiently
+high levels of access can, in theory, read your DMs (unless they are end-to-end
+encrypted, and on most platforms they are not). But for the most cases, you do
+not expect any employees at the corporation to have a particular personal
+interest in you that might motivate them to browse your personal private data.
+You cannot make that same assumption when signing up to a social network run by
+someone you know.
+
+Before using this service, please consider the access you are giving me, and
+consider whether you trust me enough to be comfortable giving me that access.
+
+## Your Privacy on labyrinth.social
+
+The boilerplate Privacy Policy for Hometown is listed in the following section,
+but before that, here are some specific policies and reminders related to this
+instance in particular.
+
+## Where Your Data Goes
+
+All posts, mentions, Direct Messages (DMs), and profile data are hosted on a
+Linode server run by the admin. All content is stored in a plaintext
+unencrypted format at present. The nonprofit that maintains Mastodon have
+indicated that in the future they may implement end-to-end encryption for Direct
+Messages, but at this time no such encryption is used.
+
+All uploaded images are hosted either on the same server or in an Amazon S3
+bucket owned by the admin. All images are publicly accessible, if you know the
+image's URL.
+
+The section "Admin Access on labyrinth.social" below, specifies the admin's
+policies and commitments regarding accessing user data.
+
+However, as with all "fediverse" services, Mastodon/Hometown posts can be and
+often are made available to users on other servers. This is referred to as
+"federation." Once your post has been federated to another server, that server
+has a copy of your post and there is absolutely no guarantee that the users of
+that server will abide by the policies of this server, or even respect the
+private/public setting of your post.
+
+Additionally, regular backups are made of the server, which means that material
+you have deleted may be retained in a backup.
+
+Therefore, please think of the privacy measures of Mastodon/Hometown as barriers
+and impediments, not unbreakable forcefields, and do not use this or any other
+non-encrypted fediverse service to exchange pictures or images that you would
+find devastating if they were made public.
+
+## Admin Access to labyrinth.social Data
+
+Keep in mind that even when the Mastodon/Hometown software does not allow for
+it, the admin's server access *does* allow them to do the following:
+
+* view direct messages, even when they are not directed to me
+* view "followers only" posts from people who have not allowed me to follow them
+* browse the Amazon AWS S3 Bucket to see all images, even those shared in posts
+  the Mastodon/Hometown software would not ordinarily allow me to see.  
+
+It's important to me to disclose that I can do these things, but it's equally
+important that **I promise you I will not do these things**, with possible
+exceptions in the following situations:
+
+* When I am required by law (for instance, if I am legally required to do so in
+  order to cooperate with a law enforcement investigation)
+* In order to investigate an abuse/harassment report (and then, only with the
+  complainant's consent)
+* In order to investigate a technical bug or issue (and then, only with the
+  consent of the sender or senders of the messages being investigated)
+
+I take this promise seriously and ask you to trust me.
+
+## Boilerplate Hometown Privacy Policy
+
+What follows is the boilerplate Privacy Policy for Hometown (which is based on
+the boilerplate Privacy Policy for Mastodon). All of the below applies to
+labyrinth.social, except insofar as it is contradicted, clarified, or further
+specified by the above.
 
 ### What information do we collect?
 
@@ -112,7 +204,6 @@ Applications can never access your e-mail address or password.
 Our site, products and services are all directed to people who are at least 13
 years old. If you are under the age of 13, per the requirements of COPPA
 ([Children's Online Privacy Protection Act](https://en.wikipedia.org/wiki/Children%27s_Online_Privacy_Protection_Act)) do not use this site.
-
 
 ### Changes to our Privacy Policy
 

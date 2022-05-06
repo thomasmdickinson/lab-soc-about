@@ -24,15 +24,20 @@ have decided to accelerate the timeline because things are going pretty well.
     * Status: **DONE as of 5/2/22**
   * ~~migrate from @nowwearealltom@mastodon.cloud to this server~~
     * Status: **DONE as of 5/2/22**
+  * Create custom "Labyrinth" css theme
+    * Status: **ONGOING, WIP version exists**
   * Test and use this as my personal private instance for a while
     * Status: **ONGOING**
+  * Draft Policy docs
+    * Code of Conduct
+    * Invitation Policy
+    * Terms of Service
+    * Privacy Policy
 
 * June 2022
   * Continue testing and using this as my personal private instance
-  * Write initial basic code of conduct
-  * Write better description copy
+  * Write better "about" copy
   * Write basic onboarding guide
-  * Create custom "Labyrinth" css theme
 
 * July 2022  
   * Invite 2-5 new users
