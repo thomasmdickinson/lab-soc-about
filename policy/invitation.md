@@ -15,16 +15,13 @@ I'll be thinking about.
   a year or two.
 * you are pretty sure you're sincerely interested in being an active user.
   Ideally this means you're already into the fediverse or very very excited to
-  jump in. I don't think I'm going to want to bring on people who are "just
-  checking it out to see what it's all about", but I totally encourage those
-  people to join another instance, maybe one of the big general instances, and
-  then maybe it'll make sense to move here later.
+  jump in.
 * you and I have relatively similar values. if you are not comfortable using
   people's preferred names and pronouns, or you think "antifa" refers to
   something bad or scary, this is probably not a great place for you
 * you have considered the security risks inherent to mastodon, and the risks of
   trusting some friend of yours who runs a mastodon server. Some further notes
-  and explanations are posted [here](security.md).
+  and explanations are posted [here](privacy.md).
 
 If you think you fit those criteria and you'd be interested to join when I'm
 ready, then reach out to me and let me know!

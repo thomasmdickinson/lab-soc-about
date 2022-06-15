@@ -15,7 +15,8 @@ platforms, we are usually referring to their data policies in a large-scale and
 impersonal context, like whether they will track you, build advertising profiles
 on you, perform social experiments on users, or sell the data to third parties.
 With a small social network hosted by someone you personally know, you do not
-usually have to worry about about that.
+usually have to worry about about that. But there are other things you might
+want to consider.
 
 For instance, whatever social platform you are using, a person with sufficiently
 high levels of access can, in theory, read your DMs (unless they are end-to-end
@@ -27,12 +28,6 @@ someone you know.
 
 Before using this service, please consider the access you are giving me, and
 consider whether you trust me enough to be comfortable giving me that access.
-
-## Your Privacy on labyrinth.social
-
-The boilerplate Privacy Policy for Hometown is listed in the following section,
-but before that, here are some specific policies and reminders related to this
-instance in particular.
 
 ## Where Your Data Goes
 
