@@ -6,9 +6,18 @@ This server uses Hometown, a fork of Mastodon that has been altered to add some
 additional features. See
 [the Hometown wiki](https://github.com/hometown-fork/hometown/wiki) for more information on the project and how it differs from regular Mastodon.
 
+## Policies
+
+Users are required to read, at minimum, the [Code of Conduct](policy/conduct.md). It is recommended that you read the other policy documents as well.
+
+* [Code of Conduct](policy/conduct.md)
+* [Terms of Service](policy/terms.md)
+* [Privacy Policy](policy/privacy.md)
+* [Invitation Policy](policy/invitation.md)
+
 ## Project Background
 
-## Why does this server exist?
+### Why does this server exist?
 
 I'll write more about this in the future. My rationale is partially described
 in [this thread](https://mastodon.cloud/@nowwearealltom/108193926000733916) and
@@ -17,7 +26,7 @@ running your own social network which overlaps with my thinking in some key
 ways. Kazemi is also the creator and maintainer of Hometown (which is the
 "fork", or variant, of Mastodon that this server uses).
 
-## Why "Labyrinth?"
+### Why "Labyrinth?"
 
 It's an interesting image/word that has a lot of different resonances.
 Mythology, design, architecture, puzzles, David Bowie in very tight pants, etc
@@ -34,26 +43,17 @@ a regular word.
 So, Labyrinth. Labyrinth social. "lab-soc" for short. You can pronounce it
 "lab-sosh" or "lab-sock" or "lab-sose" or "lab-sauce" or make up your own.
 
-## Roadmap
+### Roadmap
 
 A roadmap for the project is maintained [here](roadmap.md).
 
-# Policies
+## Using labyrinth.social
 
-Users are required to read, at minimum, the [Code of Conduct](policy/conduct.md). It is recommended that you read the other policy documents as well.
-
-* [Code of Conduct](policy/conduct.md)
-* [Terms of Service](policy/terms.md)
-* [Privacy Policy](policy/privacy.md)
-* [Invitation Policy](policy/invitation.md)
-
-# Using labyrinth.social
-
-## How do I join?
+### How do I join?
 
 labyrinth.social is invite only, and limited to Tom Dickinson's friends. If you're interested, reach out to Tom.
 
-## Local-Only Posting
+### Local-Only Posting
 
 One of the most important differences between Hometown and vanilla Mastodon is the ability to use Local Only posting. In the context of Hometown, local only posting is a per-post security option that lets you set whether that post can federate out to other servers or not.
 
@@ -80,7 +80,7 @@ which looks like this:
 You can also just type ":local\_only:" in your toot, colons included.
 That works as well.
 
-## Emoji
+### Emoji
 
 This instance uses <a href='https://mutant.tech'>Mutant Standard emoji</a>,
 which are licensed under a
