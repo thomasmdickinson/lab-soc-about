@@ -30,14 +30,13 @@ have decided to accelerate the timeline because things are going pretty well.
     * Status: **ONGOING, WIP version exists**
   * Test and use this as my personal private instance for a while
     * Status: **ONGOING**
-  * Draft Policy docs
-    * Code of Conduct
-    * Invitation Policy
-    * Terms of Service
-    * Privacy Policy
-    * Status: **ONGOING**
-  * Write better "about" copy
+  * ~~Draft Policy docs~~
+    * ~~Code of Conduct
+    * ~~Invitation Policy~~
+    * ~~Terms of Service~~
+    * ~~Privacy Policy~~
+    * Status: **DONE as of 6/20/22**
+  * ~~Write better "about" copy~~
+    * Status: **DONE as of 6/20/22**
   * Write basic onboarding guide
-
-* July 2022  
   * Invite 2-5 new users

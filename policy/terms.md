@@ -1,6 +1,7 @@
 # Terms of Service
 
 See also:
+* [About](../readme.md)
 * [Privacy Policy](privacy.md)
 * [Invitation Policy](invitation.md)
 * [Code of Conduct](conduct.md)
