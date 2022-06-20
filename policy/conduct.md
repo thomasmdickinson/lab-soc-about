@@ -1,15 +1,22 @@
 # Code of Conduct
 
 See also:
+* [About](../readme.md)
 * [Terms of Service](terms.md)
 * [Privacy Policy](privacy.md)
 * [Invitation Policy](invitation.md)
 
-This instance is currently administrated by Tom Dickinson. "Admin", "Administrators", "I", or "Me" in the following text refers to Tom Dickinson.
+## Introduction
 
-Labyrinth.Social and lab-soc refer to the instance of Mastodon at https://labyrinth.social
+All users are expected to read the entire Code of Conduct before using Labyrinth.social.
+
+Labyrinth.Social and lab-soc refer to the instance of Mastodon at https://labyrinth.social.
 
 This code of conduct applies to all lab-soc spaces, including public channels, private channels and direct messages, both online and off. Anyone who violates this code of conduct may be sanctioned or expelled from these spaces at the discretion of the administrators.
+
+## Administration
+
+This instance is currently administrated by Tom Dickinson. "Admin", "Administrators", "I", or "Me" in the following text refers to Tom Dickinson. Tom can be reached at [tom@nowwearealltom.com](mailto:tom@nowwearealltom.com).
 
 ## Harassment Policy
 
@@ -42,6 +49,27 @@ The administrators will not act on complaints regarding:
 *   Communicating in a "tone" you don't find congenial
 *   Criticism of racist, sexist, cissexist, or otherwise oppressive behavior or assumptions
 
+## Privacy
+
+Respect the privacy of all posts on labyrinth-social. Do not publicly share the contents of any of the following kinds of posts:
+
+* Direct messages
+* Followers-only posts
+* local-only posts
+
+For further information about privacy, users are encouraged to read our [Privacy Policy](privacy.md)
+
+## Content Warnings
+
+Members of labyrinth.social are expected to use mastodon's content warnings to mark any posts containing the following kinds of content:
+
+ * nsfw or sexually explicit imagery or discussion
+ * discussions or depictions of violent
+ * potentially upsetting visual imagery (i.e., imagery that may trigger common phobias, or potential trauma triggers)
+ * spoilers for recent media releases
+
+Accounts devoted primarily to any of the above listed content types are not encouraged on labyrinth.social.
+
 ## Reporting
 
 If you are being harassed by a member of lab-soc, notice that someone else is being harassed, or have any other concerns, please contact an administrator (listed at the top of this document) directly or file a report using the Mastodon reporting system (click the "..." on a post and then use the reporting feature).
@@ -60,14 +88,8 @@ The administrators reserve the right to update the Code of Conduct at any time a
 
 ## General Discussion Courtesies
 
-Members of lab-soc are expected to observe the following guidelines as a courtesy to others. Repeated violations of these guidelines may lead to administrative action, depending on the severity of the offense
+Members of lab-soc are expected to observe the following guidelines as a courtesy to others. 
 
-* Use mastodon's content warnings to mark any posts containing the following kinds of content:
-  * nsfw or sexually explicit material
-  * potentially upsetting visual imagery (i.e., imagery that may trigger common phobias)
-  * potential trauma triggers
-  * spoilers for recent media releases
-* Accounts devoted primarily to any of the above listed content types are not encouraged.
 * Descriptive alt text should be added to images whenever possible.
 * Frequent repeated boosting of bot accounts is not encouraged.
 
