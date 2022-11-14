@@ -26,10 +26,10 @@ have decided to accelerate the timeline because things are going pretty well.
     * Status: **DONE as of 5/2/22**
 
 * June 2022
-  * Create custom "Labyrinth" css theme
-    * Status: **ONGOING, WIP version exists**
-  * Test and use this as my personal private instance for a while
-    * Status: **ONGOING**
+  * ~~Create custom "Labyrinth" css theme~~
+    * Status: **DONE**
+  * ~~Test and use this as my personal private instance for a while~~
+    * Status: **DONE**
   * ~~Draft Policy docs~~
     * ~~Code of Conduct
     * ~~Invitation Policy~~
@@ -38,5 +38,9 @@ have decided to accelerate the timeline because things are going pretty well.
     * Status: **DONE as of 6/20/22**
   * ~~Write better "about" copy~~
     * Status: **DONE as of 6/20/22**
+  
+* December 2022
   * Write basic onboarding guide
-  * Invite 2-5 new users
+	  * Status: **IN PROGRESS**
+  * Improve content of Federated timeline with relays
+	  * Status: **ONGOING**

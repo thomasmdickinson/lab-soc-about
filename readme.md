@@ -1,57 +1,51 @@
 # About labyrinth.social
 
-labyrinth.social is a small Mastodon instance for friends of Tom Dickinson. If you are not familiar with Mastodon, this [video explainer](https://www.youtube.com/watch?v=IPSbNdBmWKE) gives you a good basic explanation of what it is.
+labyrinth.social is a small Mastodon instance for friends of Tom Dickinson, using the Hometown fork of Mastodon. 
 
-This server uses Hometown, a fork of Mastodon that has been altered to add some
-additional features. See
-[the Hometown wiki](https://github.com/hometown-fork/hometown/wiki) for more information on the project and how it differs from regular Mastodon.
+## What is this?
 
-## Policies
+Let's answer that at three differenty levels of granularity.
 
-Users are required to read, at minimum, the [Code of Conduct](policy/conduct.md). It is recommended that you read the other policy documents as well.
+### What is Mastodon?
 
-* [Code of Conduct](policy/conduct.md)
-* [Terms of Service](policy/terms.md)
-* [Privacy Policy](policy/privacy.md)
-* [Invitation Policy](policy/invitation.md)
+To answer this, here is:
 
-## Project Background
+* A good, short video [video explaination](https://www.youtube.com/watch?v=IPSbNdBmWKE) from the official Mastodon youtube channel
+* A better, longer [written explanation](https://www.nowwearealltom.com/what-is-mastodon/) by me
 
-### Why does this server exist?
+### What is Hometown?
 
-I'll write more about this in the future. My rationale is partially described
-in [this thread](https://mastodon.cloud/@nowwearealltom/108193926000733916) and
-there is a great [guide by Darius Kazemi](https://runyourown.social) about
-running your own social network which overlaps with my thinking in some key
-ways. Kazemi is also the creator and maintainer of Hometown (which is the
-"fork", or variant, of Mastodon that this server uses).
+This server uses Hometown, an alternate version Mastodon by [Darius Kazemi](@https://friend.camp/@darius). Hometown has been altered to add some additional features that aren't in the main version of Mastodon. The most major differences are local-only posting, and exclusive lists. See [the Hometown wiki](https://github.com/hometown-fork/hometown/wiki) for more information on the project and how it differs from regular Mastodon.
 
-### Why "Labyrinth?"
+### What is labyrinth.social?
 
-It's an interesting image/word that has a lot of different resonances.
-Mythology, design, architecture, puzzles, David Bowie in very tight pants, etc
+Labyrinth.social is a deliberately small Hometown instance created by Tom Dickinson, for a few friends. Currently there are five active users. I intend to invite more people but I don't think there will ever be more than around 25.
 
-My direct inspiration for using it comes from Jorge Luis Borges' 1941 short
-story "[The Garden of Forking Paths](http://mycours.es/gamedesign2012/files/2012/08/The-Garden-of-Forking-Paths-Jorge-Luis-Borges-1941.pdf)"
-which is good and you should read it.
+A roadmap for the future of the project is maintained [here](roadmap.md).
 
-But that alone wouldn't have made it a very good name. Not everyone has read
-Borges and not everyone will. I wanted to pick something that could mean
-different things to different people, or just mean nothing at all and be kind of
-a regular word.
+The name "labyrinth" was chosen because it is an interesting image/word that has a lot of different resonances, Mythology, design, architecture, puzzles, David Bowie in very tight pants, etc. My direct inspiration for using it comes from Jorge Luis Borges' 1941 short story "[The Garden of Forking Paths](http://mycours.es/gamedesign2012/files/2012/08/The-Garden-of-Forking-Paths-Jorge-Luis-Borges-1941.pdf)", which is good and you should read it.
 
-So, Labyrinth. Labyrinth social. "lab-soc" for short. You can pronounce it
-"lab-sosh" or "lab-sock" or "lab-sose" or "lab-sauce" or make up your own.
 
-### Roadmap
 
-A roadmap for the project is maintained [here](roadmap.md).
 
 ## Using labyrinth.social
 
 ### How do I join?
 
 labyrinth.social is invite only, and limited to Tom Dickinson's friends. If you're interested, reach out to Tom.
+
+You don't have to have an account on labyrinth.social in order to follow and interact with users on this server. An account on any Mastodon server will work (and some other kinds of servers will work too!) You may want to refer to my post [What is Mastodon? Why is Mastodon? How is Mastodon](https://www.nowwearealltom.com/what-is-mastodon/) to find out more about how this works and how to pick another server you can join.
+
+### Policies
+
+Users are required to read, at minimum, the [Code of Conduct](policy/conduct.md). It is recommended that you read the other policy documents as well.
+
+* **[Code of Conduct](policy/conduct.md)**: This document details the standards of behavior. Reading this is **mandatory** for all users of labyrinth.social.
+* **[Terms of Service](policy/terms.md)**: This document contains general information about the operation of the service, including Admin rights, availability of service, and blacklisting/silencing of other instances. It's **highly recommended** that you read this.
+* **[Privacy Policy](policy/privacy.md)** This document explains what kind of data is collected by labyrint-social, how it is used, and how it is protected. It's **highly recommended** that you read this.
+* **[Invitation Policy](policy/invitation.md)**: This document provides some information about how I will decide whether or not to invite someone.
+
+Any significant updates to any of these policies will be announced from the [@admin@labyrinth.social](https://labyrinth.social/@admin) account.
 
 ### Local-Only Posting
 
@@ -75,16 +69,15 @@ which looks like this:
   style="vertical-align: middle; -o-object-fit: contain; object-fit: contain;
          margin: -.2ex .15em .2ex; width: 16px; height: 16px;"
 />
-You can also just type ":local\_only:" in your toot, colons included.
-That works as well.
-
-This actually works on the web too!
+You can also just type ":local\_only:" in your toot, colons included. That works as well. It even works on the web too, if you don't want to use the broken chain icon.
 
 #### How to tell if a post in your timeline is local-only
 
 A local-only post will appear in your timeline with the broken chain icon on it:
 
 ![Screenshot of the home timeline with a local post on it bearing the 'broken chain' icon.](https://camo.githubusercontent.com/96e40a539849d5cd7f18884e233a1d69fb7bc746d3a7fc577fbf76518906b2c0/68747470733a2f2f74696e7973756276657273696f6e732e636f6d2f706963732f686f6d65746f776e2d6c6f63616c2d322e706e67)
+
+It also may have the above mentioned emoji in the post. But just because it *doesn't* have the emoji doesn't mean it *isn't* local-only.
 
 #### Posting local-only by default
 

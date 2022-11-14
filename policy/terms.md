@@ -9,6 +9,19 @@ See also:
 This instance is administrated by Tom Dickinson. "Admin", "I", or "Me" in the
 following text refers to Tom Dickinson.
 
+## Code of Conduct
+
+See [Code of Conduct](conduct.md)
+
+## Privacy Policy
+
+See [Privacy Policy](privacy.md)
+
+## Invitation Policy
+
+See [Invitation Policy](invitation.md)
+
+
 ## Admin Rights
 
 The admin is committed to seeking appropriate community input for substantive
@@ -55,11 +68,3 @@ of rules that is differs significantly from our code of conduct.
 "Blocking" an instance prevents it from interacting with labyrinth.social in
 any way. An instance may be blocked if its users frequently engage in
 unacceptable and disruptive behavior.
-
-## Privacy Policy
-
-See [Privacy Policy](privacy.md)
-
-## Code of Conduct
-
-See [Code of Conduct](conduct.md)
