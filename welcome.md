@@ -40,7 +40,7 @@ At some point, I might write something up myself, providing some info to familia
 
 If you run into problems with the site not working, let me know. You can send a mention or direct message to [@admin](https://labyrinth.social/@admin), or you can let me know in whatever way.
 
-If you see a post or a user, you can report them by clicking the ... button and selecting report. You can (and should!) do this for any misbehaving user you see, regardless of whether it's a labyrinth.social user or someone using another server. When you file a report, it goes to the admin of labyrinth.social, not the admin of the other server, although there will be a checkbox asking you if you want to forward it to the admin of the other server as well. I leave that up to you.
+If you see a post or a user that you think requires some moderation, you can report them by clicking the '...' button and selecting report. You can (and should!) do this for any misbehaving user you see, regardless of whether it's a labyrinth.social user or someone using another server. When you file a report, it goes to the admin of labyrinth.social, not the admin of the other server, although there will be a checkbox asking you if you want to forward it to the admin of the other server as well. I leave that up to you.
 
 Other servers don't necessarily follow the same rules as us, but it's still worth reporting so I can look into it and take action to block or silence that user if needed. Or their whole server, if that's called for. 
 
