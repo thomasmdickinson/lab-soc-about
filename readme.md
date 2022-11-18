@@ -40,7 +40,7 @@ The name "labyrinth" was chosen because it is an interesting image/word that has
 
 ### How do I join?
 
-labyrinth.social is invite only, and limited to Tom Dickinson's friends. If you want to know moree about how I'm deciding who to invite, check out the [Invitation Policy](policy/invitation.md). The general gist is that I am only planning on inviting a small number of people I know pretty well. If that describes you and you're interested in joining, let me know!
+labyrinth.social is invite only, and limited to Tom Dickinson's friends. If you want to know more about how I'm deciding who to invite, check out the [Invitation Policy](policy/invitation.md). The general gist is that I am only planning on inviting a small number of people I know pretty well. If that describes you and you're interested in joining, let me know!
 
 That said, and you may already know this: even if you haven't joined labyrinth.social, you can still follow me and the other labyrinth.social users. All you need is an account on *any* Mastodon server. Actually there are some other kinds of servers that work too, but if you're new to all this then I recommend Mastodon.
 
