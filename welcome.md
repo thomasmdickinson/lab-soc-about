@@ -34,6 +34,8 @@ I highly recommend you follow [@admin](https://labyrinth.social/@admin). This is
 
 You can browse the users of labyrinth.social in the [profile directory](https://labyrinth.social/explore), although some have opted out of appearing in the directory. I recommend that you get to know the other labyrinth.social users, because I think they are cool, and the are the people who can read your local-only posts if you choose to use that feature.
 
+Looking beyond labyrinth.social, because it's federated, that means you can follow anyone using Mastodon (or any other compatible service), provided that they haven't blocked you (or this server). If you want to find people you know from Twitter who are using Mastodon, I recommend you use [Fedifinder](https://fedifinder.glitch.me), which scrapes your Twitter data (with your permission) to find users who may also be on Mastodon.
+
 ## I have some questions about using Mastodon.
 
 At some point, I might write something up myself, providing some info to familiarize you with Mastodon functionality. But I haven't gotten around to that yet. For now, I recommend [FediTips](https://fedi.tips). Or just post your questions on Mastodon, there are lots of friendly helpful people who can assist you. I'm also happy to answer any additional questions if you reach out to me. 
