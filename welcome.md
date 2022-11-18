@@ -4,6 +4,8 @@ Hi! If you're reading this then I presume that it's because I've invited you to 
 
 There's a couple of things we need to go over before you can decide whether you would like to join, so please take a look at this document. Also bear in mind that **it is absolutely mandatory that you read the [Code of Conduct](policy/conduct.md)** if you would like to join.
 
+*(If you haven't been invited, and you arrived at this guide some other way, then I'm sorry but this guide isn't really for you! Obviously you can read it if you like, but you may find the [about page/readme](readme.md) more helpful.)*
+
 ## What is labyrinth.social?
 
 labyrinth.social is a small Mastodon server for friends of Tom Dickinson. If you don't know what Mastodon is, or only kind of know what it is, I recommend you read [What is Mastodon? Why is Mastodon? How is Mastodon?](https://www.nowwearealltom.com/what-is-mastodon/), my guide designed for curious newbies.
