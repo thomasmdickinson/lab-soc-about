@@ -55,9 +55,9 @@ It is recommended that you take regular personal backups of your posts and
 uploaded media by using the "Request Your Archive" feature located in the
 **Settings > Import and export > Data export** menu.
 
-## Blacklisting and Silencing
+## Server Moderation
 
-The admin reserves the right to Silence or Block other fediverse instances.
+The admin reserves the right to Silence or Suspend ("block") other fediverse instances.
 
 "Silencing" prevents posts from the silenced instance from appearing in the
 public timeline visible on labyrinth.social, but it does not prevent users of
@@ -65,6 +65,8 @@ labyrinth.social from following or being followed by users of that instance, or
 any other form of interaction. An instance may be silenced if it observes a set
 of rules that is differs significantly from our code of conduct.
 
-"Blocking" an instance prevents it from interacting with labyrinth.social in
-any way. An instance may be blocked if its users frequently engage in
+"Suspending" an instance prevents it from interacting with labyrinth.social in
+any way. An instance may be suspended if its users frequently engage in
 unacceptable and disruptive behavior.
+
+A list of moderated servers can be found [here](https://labyrinth.social/about/more#unavailable-content).

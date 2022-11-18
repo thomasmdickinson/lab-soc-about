@@ -114,3 +114,8 @@ For the moment, I have chosen to add only a small subset of these emoji, most
 notably the custom flags and symbols from their Gender, Sexuality, and
 Relationships category. Other emojis from that set (or any other source) can be
 added by request to the admin.
+
+
+### Moderated Servers
+
+A list of moderated (silenced or suspended) servers can be found [here](https://labyrinth.social/about/more#unavailable-content).
