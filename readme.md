@@ -4,7 +4,7 @@ labyrinth.social is a small Mastodon server for friends of Tom Dickinson, using 
 
 ## What is this?
 
-This is really three different questions:
+Let's break that down into three different questions, increasingly granular as we go.
 
   1. **What is Mastodon?** 
   2. **What is Hometown?**
