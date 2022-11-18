@@ -12,7 +12,7 @@ Actually, labyrinth.social doesn't use the regular version of Mastodon, it uses 
 
 For a fuller and more detailed explanation of labyrinth.social and what it's all about, check out the [about page/readme](readme.md) if you have not read that already.
 
-This server is small and I intend to keep it that way, but if I've invited you and you're interestred in accepting, let's grow it by one user, shall we?
+This server is small and I intend to keep it that way, but if I've invited you and you're interested in accepting, let's grow it by one user, shall we?
 
 ## What do I need to know before joining?
 
@@ -34,7 +34,7 @@ You can browse the users of labyrinth.social in the [profile directory](https://
 
 ## I have some questions about using Mastodon.
 
-At some ponit, I might write something up myself, providing some info to familiarize you with Mastodon functionality. But I haven't gotten around to that yet. For now, I recommend [FediTips](https://fedi.tips). Or just post your quesiton on Mastodon, there are lots of friendly helpful people who can assist you. I'm also happy to answer any additional questions if you reach out to me. 
+At some point, I might write something up myself, providing some info to familiarize you with Mastodon functionality. But I haven't gotten around to that yet. For now, I recommend [FediTips](https://fedi.tips). Or just post your questions on Mastodon, there are lots of friendly helpful people who can assist you. I'm also happy to answer any additional questions if you reach out to me. 
 
 ## What if I run into problems? 
 

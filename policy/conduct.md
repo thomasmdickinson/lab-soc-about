@@ -80,7 +80,7 @@ The admins reserve the right to exclude people from lab-soc based on their past 
 
 ## Consequences
 
-Participants asked to stop any harassing behavior are expected to comply immediately. If a participant engages in harassing behavior, the administrators may take any action they deem appropriate, up to and including expulsion from all Friend Camp spaces and identification of the participant as a harasser to other labyrinth.social members or the general public.
+Participants asked to stop any harassing behavior are expected to comply immediately. If a participant engages in harassing behavior, the administrators may take any action they deem appropriate, up to and including expulsion from all labyrinth.social spaces and identification of the participant as a harasser to other labyrinth.social members or the general public.
 
 ## Updates
 
