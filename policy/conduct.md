@@ -64,11 +64,13 @@ For further information about privacy, users are encouraged to read our [Privacy
 Members of labyrinth.social are expected to use mastodon's content warnings to mark any posts containing the following kinds of content:
 
  * nsfw or sexually explicit imagery or discussion
- * discussions or depictions of violent
+ * discussions or depictions of violence
  * potentially upsetting visual imagery (i.e., imagery that may trigger common phobias, or potential trauma triggers)
  * spoilers for recent media releases
 
-Accounts devoted primarily to any of the above listed content types are not encouraged on labyrinth.social.
+Accounts devoted primarily to any of the above listed content types are not encouraged on labyrinth.social. 
+
+Users are encouraged, but by no means required, to use Content Warnings for other types of content that are not listed above, but which other users may want to opt in to seeing on their timeline, for instance content that is upsetting or even merely annoying.
 
 ## Reporting
 
