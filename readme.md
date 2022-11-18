@@ -35,7 +35,7 @@ Labyrinth.social is a deliberately small Hometown instance created by Tom Dickin
 
 An informal roadmap for the future of the project is maintained [here](roadmap.md).
 
-The name "labyrinth" was chosen because it is an interesting image/word that has a lot of different resonances, Mythology, design, architecture, puzzles, David Bowie in very tight pants, etc. My direct inspiration for using it comes from Jorge Luis Borges' 1941 short story "[The Garden of Forking Paths](http://mycours.es/gamedesign2012/files/2012/08/The-Garden-of-Forking-Paths-Jorge-Luis-Borges-1941.pdf)", which is good and you should read it.
+The name "labyrinth" was chosen because it is an interesting image/word that has a lot of different resonances, Mythology, design, architecture, puzzles, David Bowie in very tight pants, etc. My direct inspiration for using it comes from Jorge Luis Borges' 1941 short story "[The Garden of Forking Paths](http://mycours.es/gamedesign2012/files/2012/08/The-Garden-of-Forking-Paths-Jorge-Luis-Borges-1941.pdf)", which is good and you should read it. Incidentally, if you're wondering who the old guy is in the [@admin](https://labyrinth.social/@admin) avatar or the picture on the About page, that's Borges.
 
 
 ## Using labyrinth.social
