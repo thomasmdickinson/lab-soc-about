@@ -2,7 +2,7 @@
 
 Hi! If you're reading this then I presume that it's because I've invited you to join [labyrinth.social](https://labyrinth.social), my Mastodon server. 
 
-A couple things to go over before you join.
+There's a couple of things we need to go over before you can decide whether you would like to join, so please take a look at this document. Also bear in mind that **it is absolutely mandatory that you read the [Code of Conduct](policy/conduct.md)** if you would like to join.
 
 ## What is labyrinth.social?
 
