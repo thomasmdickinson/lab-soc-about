@@ -72,7 +72,7 @@ Accounts devoted primarily to any of the above listed content types are not enco
 
 ## Reporting
 
-If you are being harassed by a member of lab-soc, notice that someone else is being harassed, or have any other concerns, please contact an administrator (listed at the top of this document) directly or file a report using the Mastodon reporting system (click the "..." on a post and then use the reporting feature).
+If you are being harassed by a member of lab-soc, notice that someone else is being harassed, or have any other concerns, please contact an administrator (listed at the top of this document) directly or file a report using the Mastodon reporting system (click the "..." on a post and then use the reporting feature). 
 
 This code of conduct applies to lab-soc, but if you are being harassed by a member of our community outside our spaces, we still want to know about it. We will take all good-faith reports of harassment by our members, especially the administrators, seriously. This includes harassment outside our spaces and harassment that took place at any point in time.
 
@@ -80,7 +80,7 @@ The admins reserve the right to exclude people from lab-soc based on their past 
 
 ## Consequences
 
-Participants asked to stop any harassing behavior are expected to comply immediately. If a participant engages in harassing behavior, the administrators may take any action they deem appropriate, up to and including expulsion from all Friend Camp spaces and identification of the participant as a harasser to other Friend Camp members or the general public.
+Participants asked to stop any harassing behavior are expected to comply immediately. If a participant engages in harassing behavior, the administrators may take any action they deem appropriate, up to and including expulsion from all Friend Camp spaces and identification of the participant as a harasser to other labyrinth.social members or the general public.
 
 ## Updates
 
@@ -92,6 +92,7 @@ Members of lab-soc are expected to observe the following guidelines as a courtes
 
 * Descriptive alt text should be added to images whenever possible.
 * Frequent repeated boosting of bot accounts is not encouraged.
+* The secret word to prove you read this code of conduct is "skeleton."
 
 ## License and Acknowledgements
 
