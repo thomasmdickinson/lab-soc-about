@@ -89,3 +89,10 @@ added by request to the admin.
 ### Moderated Servers
 
 A list of moderated (silenced or suspended) servers can be found [here](https://labyrinth.social/about/more#unavailable-content).
+
+
+## About this guide
+
+This guide is published under a [Creative Commons Zero v1.0 Universal](https://github.com/thomasmdickinson/lab-soc-about/blob/main/LICENSE) license, which means you can copy and modify it, for any purpose you like. The guide is also built on an [open-source repo on GitHub](https://github.com/thomasmdickinson/lab-soc-about), so do whatever you want with it! You don't need any additional permisison beyond what I'm stating here, but if you use this as a basis I'd love to hear about what you've done with it, so drop me a line at tom [at] nowwearealltom [dot] com.
+
+I also want to point out that guide includes a [Welcome](welcome.md) page for prospective users who I've informally invited but haven't sent an invite code to yet. Just calling it out here because it's the only page that isn't linked from any of the other pages on the guide (since it's not tailored for a general audience), but might still be of interest if you're curious about how I do things here.
