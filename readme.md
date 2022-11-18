@@ -2,6 +2,8 @@
 
 labyrinth.social is a small Mastodon server for friends of Tom Dickinson, using the Hometown fork of Mastodon. 
 
+This about/readme document is mirrored between the [labyrinth.social server](https://labyrinth.social/about/more) and [github pages](https://thomasmdickinson.github.io/lab-soc-about/). Hopefully they will always be in sync. This is the latest version as of 11/18/2022.
+
 ## What is this?
 
 Let's break that down into three different questions, increasingly granular as we go.
