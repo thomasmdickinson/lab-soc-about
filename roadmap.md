@@ -43,4 +43,4 @@ have decided to accelerate the timeline because things are going pretty well.
   * Write basic onboarding guide
 	  * Status: **IN PROGRESS**
   * Improve content of Federated timeline with relays
-	  * Status: **ONGOING**
+	  * Status: **ONGOING**, evaluating progress so far to see if we need more.
