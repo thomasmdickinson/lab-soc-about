@@ -18,6 +18,8 @@ This code of conduct applies to all labyrinth.social spaces, including public ch
 
 This instance is currently administrated by Tom Dickinson. "Admin", "Administrators", "I", or "Me" in the following text refers to Tom Dickinson. Tom can be reached at [tom@nowwearealltom.com](mailto:tom@nowwearealltom.com).
 
+At present, I am the only moderator of this service and I do so on a volunteer basis. I cannot guarantee that moderation will always be provided as quickly as you would expect from a professionally moderated service, but I promise to make a good faith effort to respond to moderation requests in a timely manner, and in keeping with the Code of Conduct.
+
 ## Harassment Policy
 
 **labyrinth.social is dedicated to providing a harassment-free experience for everyone. We do not tolerate harassment of participants in any form.**
