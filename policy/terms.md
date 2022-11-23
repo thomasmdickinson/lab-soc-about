@@ -9,19 +9,6 @@ See also:
 This instance is administrated by Tom Dickinson. "Admin", "I", or "Me" in the
 following text refers to Tom Dickinson.
 
-## Code of Conduct
-
-See [Code of Conduct](conduct.md)
-
-## Privacy Policy
-
-See [Privacy Policy](privacy.md)
-
-## Invitation Policy
-
-See [Invitation Policy](invitation.md)
-
-
 ## Admin Rights
 
 The admin is committed to seeking appropriate community input for substantive
