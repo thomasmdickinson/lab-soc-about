@@ -12,7 +12,7 @@ All users are expected to read the entire Code of Conduct before using Labyrinth
 
 Labyrinth.Social and lab-soc refer to the instance of Mastodon at https://labyrinth.social.
 
-This code of conduct applies to all lab-soc spaces, including public channels, private channels and direct messages, both online and off. Anyone who violates this code of conduct may be sanctioned or expelled from these spaces at the discretion of the administrators.
+This code of conduct applies to all labyrinth.social spaces, including public channels, private channels and direct messages, both online and off. Anyone who violates this code of conduct may be sanctioned or expelled from these spaces at the discretion of the administrators.
 
 ## Administration
 
@@ -74,11 +74,11 @@ Users are encouraged, but by no means required, to use Content Warnings for othe
 
 ## Reporting
 
-If you are being harassed by a member of lab-soc, notice that someone else is being harassed, or have any other concerns, please contact an administrator (listed at the top of this document) directly or file a report using the Mastodon reporting system (click the "..." on a post and then use the reporting feature). 
+If you are being harassed by a member of labyrinth.social, notice that someone else is being harassed, or have any other concerns, please contact an administrator (listed at the top of this document) directly or file a report using the Mastodon reporting system (click the "..." on a post and then use the reporting feature). 
 
-This code of conduct applies to lab-soc, but if you are being harassed by a member of our community outside our spaces, we still want to know about it. We will take all good-faith reports of harassment by our members, especially the administrators, seriously. This includes harassment outside our spaces and harassment that took place at any point in time.
+This code of conduct applies to labyrinth.social, but if you are being harassed by a member of our community outside our spaces, we still want to know about it. We will take all good-faith reports of harassment by our members, especially the administrators, seriously. This includes harassment outside our spaces and harassment that took place at any point in time.
 
-The admins reserve the right to exclude people from lab-soc based on their past behavior, including behavior outside lab-soc spaces and behavior towards people who are not in lab-soc. We will not name harassment victims without their affirmative consent.
+The admins reserve the right to exclude people from labyrinth.social based on their past behavior, including behavior outside labyrinth.social spaces and behavior towards people who are not in labyrinth.social. We will not name harassment victims without their affirmative consent.
 
 ## Consequences
 
@@ -90,7 +90,7 @@ The administrators reserve the right to update the Code of Conduct at any time a
 
 ## General Discussion Courtesies
 
-Members of lab-soc are expected to observe the following guidelines as a courtesy to others. 
+Members of labyrinth.social are expected to observe the following guidelines as a courtesy to others. 
 
 * Descriptive alt text should be added to images whenever possible.
 * Frequent repeated boosting of bot accounts is not encouraged.
