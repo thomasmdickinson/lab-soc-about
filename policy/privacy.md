@@ -83,6 +83,18 @@ exceptions in the following situations:
 
 I take this promise seriously and ask you to trust me.
 
+## Two-Factor Authentication
+
+For your security, it's recommended that you enable two-factor authentication. 
+
+You can do this on your Preferences page. In the sidebar, look for "Account". Once 
+you have opened "Account", look for "Two Factor Auth". 
+
+Unlike some services, Mastodon does not allow for two-factor authentication over SMS
+text message. So you will need a authenticator app that allows for TOTP (Time-based one-time password) 
+authentication. A good free option is Google Authenticator (available
+for [Android](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2&hl=en_US&gl=US) or [iOS](https://apps.apple.com/us/app/google-authenticator/id388497605)). 
+
 ## Boilerplate Hometown Privacy Policy
 
 What follows is the boilerplate Privacy Policy for Hometown (which is based on
