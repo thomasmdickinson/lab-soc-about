@@ -57,3 +57,5 @@ any way. An instance may be suspended if its users frequently engage in
 unacceptable and disruptive behavior.
 
 A list of moderated servers can be found [here](https://labyrinth.social/about/more#unavailable-content).
+
+At present, I am the only moderator of this service and I do so on a volunteer basis. I cannot guarantee that moderation will always be provided as quickly as you would expect from a professionally moderated service, but I promise to make a good faith effort to respond to moderation requests in a timely manner.
