@@ -48,6 +48,14 @@ If you see a post or a user that you think requires some moderation, you can rep
 
 Other servers don't necessarily follow the same rules as us, but it's still worth reporting so I can look into it and take action to block or silence that user if needed. Or their whole server, if that's called for. 
 
+## Is it secure? Is it reliable? Is it well-moderated?
+
+As for security, I recommend you read the **[Privacy Policy](policy/privacy.md)**. To summarize, no messages are encrypted, including direct messages, and I strongly urge you not to share private information on this service.
+
+As for reliability, I recommend you read the **[Terms of Service](policy/terms.md)**. To summarize, this is a hobby project with no guarantee of uptime or availability, but I promise to make a good faith effort to provide ample warning if the service will be made temporarily or permanently unavailable.
+
+As for moderation, as stated in the **[Code of Conduct](policy/conduct.md)**. I am the only moderator of this service and I do so on a volunteer basis. I cannot guarantee that moderation will always be provided as quickly as you would expect from a professionally moderated service, but I promise to make a good faith effort to respond to moderation requests in a timely manner, and in keeping with the Code of Conduct.
+
 ## I'm interested, but there's an important question you haven't answered!
 
 Really? Okay! Please tell me what it is so I can answer it and possibly add it to this welcome guide.
