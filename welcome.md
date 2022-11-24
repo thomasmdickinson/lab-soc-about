@@ -23,7 +23,7 @@ This server is small and I intend to keep it that way, but if I've invited you a
 I think you might also want to read: 
 
 * **The [about page/readme](readme.md)**, which has general information about mastodon, hometown, and this instance.
-* **[Terms of Service](policy/terms.md)**: This has contains general information about the operation of the service, including Admin rights, availability of service, and blacklisting/silencing of other instances. I wrote most of this myself, it's not standard boilerplate.
+* **[Terms of Service](policy/terms.md)**: This contains general information about the operation of the service, including Admin rights, availability of service, and blacklisting/silencing of other instances. I wrote most of this myself, it's not standard boilerplate.
 * **[Privacy Policy](policy/privacy.md)** This document explains what kind of data is collected by labyrinth.social, how it is used, and how it is protected. Again, I wrote most of this myself, it's not standard boilerplate.
 * **[Invitation Policy](policy/invitation.md)**: This document provides some information about how I will decide whether or not to invite someone.
 * **The guide to [local-only posting](local-only.md)** on labyrinth.social, if you'd like to use that feature.
