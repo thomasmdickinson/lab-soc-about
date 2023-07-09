@@ -2,7 +2,7 @@
 
 labyrinth.social is a small Mastodon server for friends of Tom Dickinson, using the Hometown fork of Mastodon. 
 
-This about/readme document is mirrored between the [labyrinth.social server](https://labyrinth.social/about/more) and [github pages](https://thomasmdickinson.github.io/lab-soc-about/). Hopefully they will always be in sync. This is the latest version as of 11/18/2022.
+This about/readme document is mirrored between the [labyrinth.social server](https://labyrinth.social/about/more) and [github pages](https://thomasmdickinson.github.io/lab-soc-about/). Hopefully they will always be in sync. This is the latest version as of 5/8/2022.
 
 ## What is this?
 
@@ -31,9 +31,7 @@ The most major differences are local-only posting, and exclusive lists. See [the
 
 ### What is labyrinth.social?
 
-Labyrinth.social is a deliberately small Hometown instance created by Tom Dickinson, for a few friends. Currently there are five active users. I intend to invite more people but I don't think there will ever be more than around 25.
-
-An informal roadmap for the future of the project is maintained [here](roadmap.md).
+Labyrinth.social is a deliberately small Hometown instance created by Tom Dickinson, for a few friends. Currently there are 13 active users. I intend to invite more people but I don't think there will ever be more than around 50.
 
 The name "labyrinth" was chosen because it is an interesting image/word that has a lot of different resonances, Mythology, design, architecture, puzzles, David Bowie in very tight pants, etc. My direct inspiration for using it comes from Jorge Luis Borges' 1941 short story "[The Garden of Forking Paths](http://mycours.es/gamedesign2012/files/2012/08/The-Garden-of-Forking-Paths-Jorge-Luis-Borges-1941.pdf)", which is good and you should read it. Incidentally, if you're wondering who the old guy is in the [@admin](https://labyrinth.social/@admin) avatar or the picture on the About page, that's Borges.
 
@@ -46,13 +44,11 @@ labyrinth.social is invite only, and limited to Tom Dickinson's friends. If you 
 
 That said, and you may already know this: even if you haven't joined labyrinth.social, you can still follow me and the other labyrinth.social users. All you need is an account on *any* Mastodon server. Actually there are some other kinds of servers that work too, but if you're new to all this then I recommend Mastodon.
 
-If you're looking for some other server to join, skip to [this section in the middle of my "What is Mastodon?" post](https://www.nowwearealltom.com/what-is-mastodon/#09), which has some advice on how to find one to join
+If you're looking for some other server to join, skip to [this section in the middle of my "What is Mastodon?" post](https://www.nowwearealltom.com/what-is-mastodon/#09), which has some advice on how to find one to join.
 
 ### Who is already using labyrinth.social?
 
-As of this writing, five people including Tom. Plus an admin account which is just Tom again tbh. 
-
-You can browse the [Profile Directory](https://labyrinth.social/explore) to see the users who have opted in to appearing in it. But not everybody necessarily has!
+As of this writing, about 13 people. You can browse the [Profile Directory](https://labyrinth.social/directory) to see the users who have opted in to appearing in it. But not everybody necessarily has! By default, this page will show you all the accounts that the server is federated with, if you just want to see labyrinth.social users you will need to select "from labyrinth.social only".
 
 ### Policies
 
@@ -88,8 +84,7 @@ added by request to the admin.
 
 ### Moderated Servers
 
-A list of moderated (silenced or suspended) servers can be found [here](https://labyrinth.social/about/more#unavailable-content).
-
+A list of moderated (silenced or suspended) servers can be viewed at any time by logged in users [here](https://labyrinth.social/about/more#unavailable-content). The list of moderated servers is not publicly available, but information may be available by request.
 
 ## About this guide
 
