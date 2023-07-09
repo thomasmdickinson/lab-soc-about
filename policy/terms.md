@@ -40,11 +40,12 @@ permanently, I will make a good faith effort to provide ample warning.
 
 It is recommended that you take regular personal backups of your posts and
 uploaded media by using the "Request Your Archive" feature located in the
-**Settings > Import and export > Data export** menu.
+**Settings > Import and export > Data export** menu. 
 
 ## Server Moderation
 
-The admin reserves the right to Silence or Suspend ("block") other fediverse instances.
+The admin reserves the right to Silence or Suspend ("block") other fediverse 
+instances.
 
 "Silencing" prevents posts from the silenced instance from appearing in the
 public timeline visible on labyrinth.social, but it does not prevent users of
@@ -56,6 +57,15 @@ of rules that is differs significantly from our code of conduct.
 any way. An instance may be suspended if its users frequently engage in
 unacceptable and disruptive behavior.
 
-A list of moderated servers can be found [here](https://labyrinth.social/about/more#unavailable-content).
+In general, I will take it upon myself to suspend ("defederate") small servers 
+that are unmoderated, or that have moderation policies which allow or encourage 
+bigotry or harassment. The decision to defederate from larger servers, which may 
+have lax moderation but also may contain many accounts of interest to 
+labyrinth.social users, is a more complicated one and I will usually seek feedback 
+from the community via the @admin](https://labyrinth.social/@admin) account.
+
+If you're a logged in user of labyrinth.social, you can see a list of moderated (silenced or suspended) servers [here](https://labyrinth.social/about/more#unavailable-content). 
+
+The list of moderated servers is not publicly available to non-users, but information may be available by request.
 
 At present, I am the only moderator of this service and I do so on a volunteer basis. I cannot guarantee that moderation will always be provided as quickly as you would expect from a professionally moderated service, but I promise to make a good faith effort to respond to moderation requests in a timely manner, and in keeping with the Code of Conduct.

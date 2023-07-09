@@ -38,13 +38,15 @@ Looking beyond labyrinth.social, because it's federated, that means you can foll
 
 ## I have some questions about using Mastodon.
 
-At some point, I might write something up myself, providing some info to familiarize you with Mastodon functionality. But I haven't gotten around to that yet. For now, I recommend [FediTips](https://fedi.tips). Or just post your questions on Mastodon, there are lots of friendly helpful people who can assist you. I'm also happy to answer any additional questions if you reach out to me. 
+This guide exists to familiarize you with some of the concepts you'll need to know when using Mastodon, but I haven't provided a detailed guide to the functionality of Mastodon or Hometown. I might write something like that in the future, but for now, I recommend [FediTips](https://fedi.tips). Or just post your questions on Mastodon, there are lots of friendly helpful people who can assist you. I'm also happy to answer any additional questions if you reach out to me. 
 
 ## What if I run into problems? 
 
-If you run into problems with the site not working, let me know. You can send a mention or direct message to [@admin](https://labyrinth.social/@admin), or you can let me know in whatever way.
+If you run into problems with the site not working, let me know. You can send a mention or direct message to [@admin](https://labyrinth.social/@admin). If you're am member of this community you probably know of other ways to contact me, so you can use those. 
 
-If you see a post or a user that you think requires some moderation, you can report them by clicking the '...' button and selecting report. You can (and should!) do this for any misbehaving user you see, regardless of whether it's a labyrinth.social user or someone using another server. When you file a report, it goes to the admin of labyrinth.social, not the admin of the other server, although there will be a checkbox asking you if you want to forward it to the admin of the other server as well. I leave that up to you.
+If you see a post or a user that you think requires some moderation, you can report them by clicking the '...' button and selecting report. You can (and should!) do this for any misbehaving user you see, regardless of whether it's a labyrinth.social user or someone using another server. 
+
+When you file a report, it always goes to the admin of labyrinth.social (that's me!). It doesn't necessarily go to the admin of the other server, but there's a checkbox allowing you to request that it does. I leave that up to you.
 
 Other servers don't necessarily follow the same rules as us, but it's still worth reporting so I can look into it and take action to block or silence that user if needed. Or their whole server, if that's called for. 
 

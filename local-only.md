@@ -1,6 +1,10 @@
 # Local-Only Posting
 
-As mentioned on the [about page/readme](readme.md), labyrinth-social is on an alternate version of Mastodon called Hometown. One of the most important differences between Hometown and vanilla Mastodon is the ability to use Local Only posting. In the context of Hometown, local only posting is a per-post security option that lets you set whether that post can federate out to other servers or not.
+As mentioned on the [about page/readme](readme.md), labyrinth-social is on an alternate version of Mastodon called Hometown. One of the most important differences between Hometown and vanilla Mastodon is the ability to use Local Only posting. 
+
+As you probably already know, when you post with your account on a Mastodon server, that post is not just available to people on your server. It goes out to all your followers, who may be on any number of servers. This is called "federating".
+
+In the context of Hometown, local only posting is a per-post security option that lets you set whether that post can federate out to other servers or not.
 
 A full explanation of the feature can be found on the [the Hometown wiki](https://github.com/hometown-fork/hometown/wiki/Local-only-posting).
 
@@ -15,12 +19,12 @@ When posting with the web interface on labyrinth.social, you will see an icon ne
 If you use an third-party app to post, there is unlikely to be a menu option for local-only posting, since apps have not generally added this functionality. Therefore, users can also tag their posts as "local only" by using the :local\_only: emoji,
 which looks like this:
 <img
-  src="https://labyrinth.social/system/custom_emojis/images/000/008/282/static/aeeb24f12d632bd6.png"
+  src="https://s3-external-1.amazonaws.com/labsoc-files/custom_emojis/images/000/008/282/original/aeeb24f12d632bd6.png"
   alt=":local_only:" title=":local_only:"
   style="vertical-align: middle; -o-object-fit: contain; object-fit: contain;
          margin: -.2ex .15em .2ex; width: 16px; height: 16px;"
 />
-You can also just type ":local\_only:" in your toot, colons included. That works as well. It even works on the web too, if you don't want to use the broken chain icon.
+You can also just type ":local_only:" in your toot, colons included. That works as well. It even works on the web too, if you don't want to use the broken chain icon.
 
 ## How to tell if a post in your timeline is local-only
 

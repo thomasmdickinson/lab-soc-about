@@ -24,10 +24,9 @@ I'll be thinking about.
   trusting some friend of yours who runs a mastodon server. Some further notes
   and explanations are posted [here](privacy.md).
 
-If you think you fit those criteria and you'd be interested to join when I'm
-ready, then reach out to me and let me know!
+If you think you fit those criteria and you'd be interested to join, reach out to me 
+and let me know!
 
-P.S.: If you're thinking of joining the fediverse and you figure you'll just
-wait til this place is ready, please don't wait on me because I can't guarantee
-it'll ever happen. [jump in](http://joinmastodon.org/) and you can always move
-here later if it makes sense for me to invite you.
+P.S.: If you're thinking of joining the fediverse but aren't sure about this
+community, I recommend you join [another server](http://joinmastodon.org/).
+We can always consider whether it makes sense for you to move here at a later time.
