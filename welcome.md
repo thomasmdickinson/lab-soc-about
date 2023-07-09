@@ -42,7 +42,7 @@ This guide exists to familiarize you with some of the concepts you'll need to kn
 
 ## What if I run into problems? 
 
-If you run into problems with the site not working, let me know. You can send a mention or direct message to [@admin](https://labyrinth.social/@admin). If you're am member of this community you probably know of other ways to contact me, so you can use those. 
+If you run into problems with the site not working, let me know. You can send a mention or direct message to [@admin](https://labyrinth.social/@admin). If you're a member of this community or considering joining, you probably know of other ways to contact me, so you can use those. 
 
 If you see a post or a user that you think requires some moderation, you can report them by clicking the '...' button and selecting report. You can (and should!) do this for any misbehaving user you see, regardless of whether it's a labyrinth.social user or someone using another server. 
 
