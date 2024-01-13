@@ -16,9 +16,9 @@ Let's break that down into three different questions, increasingly granular as w
 
 Mastodon is a social networking app. It's a little like Twitter, in that you make short posts and follow/reply to other users. But it's nothing like Twitter, in that it's open source, decentralized, and has no ads. 
 
-If you don't understand what I'm talking about, I get it. It's a little hard to explain. But here are two pretty good explanations.
+If you don't understand what I'm talking about, I get that. It's a little hard to explain. But here are two pretty good explanations.
 
-* A good, short video [video explaination](https://www.youtube.com/watch?v=IPSbNdBmWKE) from the official Mastodon youtube channel
+* A good, short [video explaination](https://www.youtube.com/watch?v=IPSbNdBmWKE) from the official Mastodon youtube channel
 * A better, longer [written explanation](https://www.nowwearealltom.com/what-is-mastodon/) by me
 
 There are many Mastodon servers out there, all talking to one another. This is one of them.
@@ -52,7 +52,7 @@ As of this writing, about 10 people. You can browse the [Profile Directory](http
 
 ### Policies
 
-Users are required to read, at minimum, the [Code of Conduct](policy/conduct.md). It is recommended that you read the other policy documents as well.
+Users are required to read the [Code of Conduct](policy/conduct.md). It is recommended that you read the other policy documents as well.
 
 * **[Code of Conduct](policy/conduct.md)**: This document details the standards of behavior. Reading this is **mandatory** for all users of labyrinth.social.
 * **[Terms of Service](policy/terms.md)**: This document contains general information about the operation of the service, including Admin rights, availability of service, and blacklisting/silencing of other instances. It's **highly recommended** that you read this.
