@@ -84,7 +84,7 @@ and in these cases it may be useful to Silence the instance without severing fol
 Occasionally, an instance may silenced or suspended on a temporary basis, if a situation 
 is unfolding on that instance which is resulting in problematic behavior (usually automated 
 spam messages). This has happened a few times. These temporary actions are always announced via
-the @admin account.
+the [@admin](https://labyrinth.social/@admin) account.
 
 ## Reversal of Defederation Decisions
 
@@ -99,7 +99,7 @@ experience for myself and the other labyrinth.social users, not to ensure that e
 are given "fair" access to the labyrinth.social users.
 
 If a previous defederation decision is ever reversed, such a decision will be announced in advance
-via the @admin account.
+via the [@admin](https://labyrinth.social/@admin) account.
 
 ## Large Server Decisions
 
@@ -120,6 +120,6 @@ for a number of reasons, including privacy, content moderation, mistrust of Meta
 in the content posted there. In contrast to the decision we made with mastodon.social, labyrinth.social
 has decided not to federate with Threads.
 
-Both of the above decisions were made in consultation with the labyrinth.social users via the [@admin](https://labyrinth.social/@admin), and both are subject to change in the future. As a
+Both of the above decisions were made in consultation with the labyrinth.social users via the [@admin](https://labyrinth.social/@admin) account, and both are subject to change in the future. As a
 general rule, decisions relating to federation with large servers will be made that same way,
 with community input, although I reserve the right to make the final decision myself.
