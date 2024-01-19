@@ -33,14 +33,11 @@ This server uses Hometown, an alternate version of Mastodon created by [Darius K
 
 The most major differences are local-only posting, and exclusive lists. See [the Hometown wiki](https://github.com/hometown-fork/hometown/wiki) for more information on the project and how it differs from regular Mastodon.
 
-
-
 ### What is labyrinth.social?
 
 Labyrinth.social is a deliberately small Hometown instance created by Tom Dickinson, for a few friends. Currently there are about 10 active users. I intend to invite more people but I don't think there will ever be more than around 50.
 
 The name "labyrinth" was chosen because it is an interesting image/word that has a lot of different resonances, Mythology, design, architecture, puzzles, David Bowie in very tight pants, etc. My direct inspiration for using it comes from Jorge Luis Borges' 1941 short story "[The Garden of Forking Paths](http://mycours.es/gamedesign2012/files/2012/08/The-Garden-of-Forking-Paths-Jorge-Luis-Borges-1941.pdf)", which is good and you should read it. Incidentally, if you're wondering who the old guy is in the [@admin](https://labyrinth.social/@admin) avatar or the picture on the About page, that's Borges.
-
 
 ## Using labyrinth.social
 
@@ -95,6 +92,11 @@ If you're a logged in user of labyrinth.social, you can see a list of moderated 
 
 The list of moderated servers is not publicly available to non-users, but information may be available by request.
 
+## How much does this cost and how is it paid for?
+
+An estimate of the monthly cost of running labyrinth.social can be found [here](paying.md). 
+
+I don't charge users anything for labyrinth.social accounts and I can't imagine ever doing so. But if you'd like to chip in a bit, you can contribute to labyrinth.social's [ko-fi page](https://ko-fi.com/labsoc).
 
 ## About this guide
 
