@@ -62,8 +62,9 @@ Users are required to read the [Code of Conduct](policy/conduct.md). It is recom
 
 * **[Code of Conduct](policy/conduct.md)**: This document details the standards of behavior. Reading this is **mandatory** for all users of labyrinth.social.
 * **[Terms of Service](policy/terms.md)**: This document contains general information about the operation of the service, including Admin rights, availability of service, and blacklisting/silencing of other instances. It's **highly recommended** that you read this.
-* **[Privacy Policy](policy/privacy.md)** This document explains what kind of data is collected by labyrinth.social, how it is used, and how it is protected. It's **highly recommended** that you read this.
+* **[Privacy Policy](policy/privacy.md)**: This document explains what kind of data is collected by labyrinth.social, how it is used, and how it is protected. It's **highly recommended** that you read this.
 * **[Invitation Policy](policy/invitation.md)**: This document provides some information about how I will decide whether or not to invite someone.
+* **[Federation Policy](federation.md)**: This document explains the actions I can take to "defederate" (suspend or silence) other fediverse instance, and the general policies and practices that are in place on this server for doing so.
 
 These are **not** just boilerplate documents, they are largely original documents written by me, so my goal is for them to be clear and readable. Although some of them do have some boilerplate language in them. 
 

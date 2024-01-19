@@ -26,6 +26,7 @@ I think you might also want to read:
 * **[Terms of Service](policy/terms.md)**: This contains general information about the operation of the service, including Admin rights, availability of service, and blacklisting/silencing of other instances. I wrote most of this myself, it's not standard boilerplate.
 * **[Privacy Policy](policy/privacy.md)** This document explains what kind of data is collected by labyrinth.social, how it is used, and how it is protected. Again, I wrote most of this myself, it's not standard boilerplate.
 * **[Invitation Policy](policy/invitation.md)**: This document provides some information about how I will decide whether or not to invite someone.
+* **[Federation Policy](federation.md)**: This document explains the actions I can take to "defederate" (suspend or silence) other fediverse instance, and the general policies and practices that are in place on this server for doing so.
 * **The guide to [local-only posting](local-only.md)** on labyrinth.social, if you'd like to use that feature.
 
 ## Who can I follow? Who should I follow? 
