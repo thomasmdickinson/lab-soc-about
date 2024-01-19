@@ -22,7 +22,7 @@ In other ways, it's nothing like Twitter, in that it's open source, and has no a
 
 If you don't understand what I'm talking about, I get that. It's a little hard to explain. But here are two pretty good explanations.
 
-* A good, short [video explaination](https://www.youtube.com/watch?v=IPSbNdBmWKE) from the official Mastodon youtube channel
+* A good, short [video explanation](https://www.youtube.com/watch?v=IPSbNdBmWKE) from the official Mastodon youtube channel
 * A better, longer [written explanation](https://www.nowwearealltom.com/what-is-mastodon/) by me
 
 There are many Mastodon servers out there, all talking to one another. This is one of them.

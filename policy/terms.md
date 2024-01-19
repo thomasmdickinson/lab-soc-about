@@ -30,9 +30,9 @@ them, and that is a commitment that I take seriously.
 
 For me, this is an experimental hobby project, and so I ask you to bear in mind
 that it may not work out perfectly or last for a very long time. It's possible
-that I will burn out, or not be able to justify the (currently small) expense at
-some point, and there will be no one to take over for me, so it'll shut down. I
-could also just become completely unable to keep things going for health or, uh,
+that I will burn out, or not be able to justify the [expense](../paying.md) at 
+some point, and there will be no one to take over for me, so it'll shut down. 
+I could also just become completely unable to keep things going for health or, uh, 
 death reasons.
 
 What I can promise is that I won't just get bored one day and pull the plug
