@@ -4,7 +4,9 @@ See also:
 * [About](../readme.md)
 * [Terms of Service](terms.md)
 * [Privacy Policy](privacy.md)
+* [Federation Policy](federation.md)
 * [Code of Conduct](conduct.md)
+
 
 Please don't feel slighted if I don't ever choose to invite you because I am
 only ever going to invite a small number of people.

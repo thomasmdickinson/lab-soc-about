@@ -4,6 +4,7 @@ See also:
 * [About](../readme.md)
 * [Terms of Service](terms.md)
 * [Invitation Policy](invitation.md)
+* [Federation Policy](federation.md)
 * [Code of Conduct](conduct.md)
 
 This instance is administrated by Tom Dickinson. "Admin", "I", or "Me" in the

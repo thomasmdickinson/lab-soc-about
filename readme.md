@@ -2,7 +2,7 @@
 
 labyrinth.social is a small Mastodon server for friends of Tom Dickinson, using the Hometown fork of Mastodon. 
 
-This about/readme document is mirrored between the [labyrinth.social server](https://labyrinth.social/about/more) and [github pages](https://thomasmdickinson.github.io/lab-soc-about/). Hopefully they will always be in sync. This is the latest version as of 7/9/2023.
+This about/readme document is mirrored between the [labyrinth.social server](https://labyrinth.social/about/more) and [github pages](https://thomasmdickinson.github.io/lab-soc-about/). Hopefully they will always be in sync. This is the latest version as of 1/13/2024.
 
 ## What is this?
 
@@ -14,7 +14,11 @@ Let's break that down into three different questions, increasingly granular as w
 
 ### What is Mastodon?
 
-Mastodon is a social networking app. It's a little like Twitter, in that you make short posts and follow/reply to other users. But it's nothing like Twitter, in that it's open source, decentralized, and has no ads. 
+Mastodon is a social networking app. 
+
+In some ways, it's like Twitter, in that you make short posts and follow/reply to other users. 
+
+In other ways, it's nothing like Twitter, in that it's open source, and has no ads, and is "decentralized" this means that no one person or corporation owns the whole thing.
 
 If you don't understand what I'm talking about, I get that. It's a little hard to explain. But here are two pretty good explanations.
 
@@ -29,6 +33,8 @@ This server uses Hometown, an alternate version of Mastodon created by [Darius K
 
 The most major differences are local-only posting, and exclusive lists. See [the Hometown wiki](https://github.com/hometown-fork/hometown/wiki) for more information on the project and how it differs from regular Mastodon.
 
+
+
 ### What is labyrinth.social?
 
 Labyrinth.social is a deliberately small Hometown instance created by Tom Dickinson, for a few friends. Currently there are about 10 active users. I intend to invite more people but I don't think there will ever be more than around 50.
@@ -42,7 +48,7 @@ The name "labyrinth" was chosen because it is an interesting image/word that has
 
 labyrinth.social is invite only, and limited to Tom Dickinson's friends. If you want to know more about how I'm deciding who to invite, check out the [Invitation Policy](policy/invitation.md). The general gist is that I am only planning on inviting a small number of people I know pretty well. If that describes you and you're interested in joining, let me know!
 
-That said, and you may already know this: even if you haven't joined labyrinth.social, you can still follow me and the other labyrinth.social users. All you need is an account on *any* Mastodon server. Actually there are some other kinds of servers that work too, but if you're new to all this then I recommend Mastodon.
+That said even if you haven't joined labyrinth.social, you can still follow me and the other labyrinth.social users. All you need is an account on *any* Mastodon server. Actually there are some other kinds of servers that work too, but if you're new to all this then I recommend Mastodon.
 
 If you're looking for some other server to join, skip to [this section in the middle of my "What is Mastodon?" post](https://www.nowwearealltom.com/what-is-mastodon/#09), which has some advice on how to find one to join.
 
